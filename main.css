@@ -52,12 +52,16 @@ body{
     line-height: 80px;
     text-shadow: 2px 2px 4px black;
 }
-.titulos{
-    colo
-}
 .titulos {
-    font-size: 32px;
-  background: -webkit-linear-gradient(·#, #);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}   
+    font-size:40px;
+    background: -webkit-linear-gradient(#FB5012,#ffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    text-shadow: 0px 0px 45px #60AFFF;
+    -webkit-text-stroke: 1px black;
+}
+.videos{
+    text-align: center;
+    padding: auto;
+}
