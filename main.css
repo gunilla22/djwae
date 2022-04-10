@@ -57,12 +57,25 @@ body{
     background: -webkit-linear-gradient(#FB5012,#ffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-align: center;
+    text-align: left;
     text-shadow: 0px 0px 45px #60AFFF;
     -webkit-text-stroke: 1px black;
 }
 .videos{
-    text-align: center;
+    display:block;
+    width: 300px;
+    text-align: left;
     background-color: black;
     box-shadow: 5px 5px 10px black;
+}
+
+.noticias{
+    display: block;
+    width: 600px;
+    height: 700px;
+    margin-left: 400px;
+    margin-top: -700px;
+}
+h2{
+    
 }
