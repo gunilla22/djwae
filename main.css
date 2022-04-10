@@ -48,8 +48,8 @@ body{
     width: max;
 }
     .welcome{
+    font-size: 40px;
     color:#FB5012;
-    line-height: 80px;
     text-shadow: 2px 2px 4px black;
 }
 .titulos {
@@ -64,4 +64,5 @@ body{
 .videos{
     text-align: center;
     background-color: black;
+    box-shadow: 5px 5px 10px black;
 }
